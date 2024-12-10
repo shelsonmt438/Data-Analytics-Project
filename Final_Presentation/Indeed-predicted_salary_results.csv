@@ -1,0 +1,471 @@
+work_year,job_title,experience_level,employment_type,work_setting,company_location,Actual Salary,Predicted Salary
+2023.0,Applied Scientist,Senior,Full-time,Remote,United States,178538.0,197900.21813165897
+2023.0,Data Analyst,Entry-level,Full-time,In-person,United States,61200.0,78425.14055119974
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,208450.0,199160.9588507386
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,73000.0,117432.17809830085
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,125000.0,190392.2699275021
+2023.0,Data Manager,Mid-level,Full-time,Remote,United States,65000.0,105781.09899822398
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,90000.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,200000.0,161778.34637063125
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,166500.0,171731.7533965659
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,82500.0,119061.57181258363
+2023.0,Data Analyst,Mid-level,Full-time,Remote,United States,62500.0,89930.62933232497
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,165000.0,151537.38690727303
+2023.0,Data Architect,Senior,Full-time,In-person,United States,234900.0,154789.23864726786
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,84800.0,161778.34637063125
+2023.0,Data Manager,Executive,Full-time,In-person,United States,70000.0,89270.81931956929
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,52500.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,110000.0,151537.38690727303
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,133000.0,130472.79525558426
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,90000.0,131171.7522591696
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,258700.0,171731.7533965659
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,112000.0,161778.34637063125
+2023.0,Head of Data,Executive,Full-time,In-person,United States,172200.0,220560.6738095238
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,212000.0,171731.7533965659
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,175000.0,197809.92276225233
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,212800.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,168800.0,171159.85117930328
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,247300.0,151537.38690727303
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,120000.0,119061.57181258363
+2023.0,Business Intelligence Analyst,Mid-level,Full-time,In-person,United States,150000.0,108706.0029220779
+2023.0,BI Analyst,Mid-level,Full-time,In-person,United States,140000.0,136631.8614430949
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,167000.0,171731.7533965659
+2023.0,Data Analyst,Entry-level,Full-time,In-person,United States,80800.0,78425.14055119974
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,183900.0,171731.7533965659
+2023.0,Data Manager,Senior,Full-time,In-person,United States,145000.0,123626.86292084586
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,155000.0,161778.34637063125
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,140000.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,146600.0,199160.9588507386
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,133000.0,130472.79525558426
+2023.0,Head of Data,Executive,Full-time,Remote,United States,270000.0,261234.01507936508
+2023.0,Applied Scientist,Senior,Full-time,In-person,United States,222200.0,185985.26206687483
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,204500.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,200000.0,197809.92276225233
+2023.0,Research Scientist,Mid-level,Full-time,In-person,United States,270000.0,188363.98928848928
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,75000.0,117432.17809830085
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,180000.0,144188.5756612841
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,120000.0,117432.17809830085
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,79600.0,153464.48865931274
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,216800.0,171731.7533965659
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,340000.0,199160.9588507386
+2023.0,BI Developer,Mid-level,Full-time,In-person,United States,154800.0,88347.78982683989
+2023.0,Data Analyst,Entry-level,Full-time,In-person,United States,85256.0,78425.14055119974
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,204500.0,199160.9588507386
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,128000.0,161778.34637063125
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,297000.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,133300.0,171731.7533965659
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,125000.0,211784.7579418281
+2023.0,Business Intelligence Analyst,Senior,Full-time,Remote,United States,152000.0,138593.43142857144
+2023.0,Business Intelligence Engineer,Mid-level,Full-time,Remote,United States,89500.0,86934.55726190464
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,128000.0,161778.34637063125
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,96800.0,117432.17809830085
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,223400.0,171159.85117930328
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,79600.0,153464.48865931274
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,202800.0,153464.48865931274
+2023.0,Machine Learning Researcher,Senior,Full-time,Remote,United States,190000.0,155247.86398268398
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,100000.0,151537.38690727303
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,185000.0,211784.7579418281
+2023.0,Machine Learning Engineer,Mid-level,Full-time,Remote,United States,180000.0,99364.67270476988
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,247250.0,211784.7579418281
+2023.0,Data Scientist,Entry-level,Part-time,In-person,United States,133000.0,102999.53876042258
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,81500.0,171731.7533965659
+2023.0,Data Specialist,Senior,Full-time,In-person,United States,90000.0,114593.76036956126
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,184000.0,161778.34637063125
+2023.0,Applied Scientist,Senior,Full-time,In-person,United States,260000.0,185985.26206687483
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,120350.0,119061.57181258363
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,73100.0,109398.41772412756
+2023.0,Data Visualization Engineer,Senior,Full-time,In-person,United States,170200.0,100071.07142857139
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,130000.0,130472.79525558426
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,260000.0,188187.40874620195
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,132000.0,171731.7533965659
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,171000.0,117432.17809830085
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,204500.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,328400.0,197809.92276225233
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,170000.0,131171.7522591696
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,153600.0,171731.7533965659
+2023.0,Machine Learning Engineer,Mid-level,Full-time,Remote,United States,150000.0,99364.67270476988
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,175000.0,161778.34637063125
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,166600.0,199160.9588507386
+2023.0,Applied Scientist,Entry-level,Full-time,In-person,United States,141100.0,230847.74092021724
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,108000.0,161778.34637063125
+2023.0,Data Engineer,Executive,Full-time,Remote,United States,136000.0,163521.1444805195
+2023.0,Business Intelligence Engineer,Senior,Full-time,Remote,United States,120000.0,129525.42979769126
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,110000.0,119061.57181258363
+2023.0,Business Intelligence Analyst,Senior,Full-time,In-person,United States,99000.0,134756.80123301977
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,303050.0,211784.7579418281
+2023.0,AI Developer,Entry-level,Full-time,Remote,United States,130000.0,205098.33333333334
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,80000.0,117432.17809830085
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,130000.0,130472.79525558426
+2023.0,Data Architect,Senior,Full-time,Remote,United States,215000.0,190614.20310907534
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,255000.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,186000.0,161778.34637063125
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,185400.0,171159.85117930328
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,207000.0,171159.85117930328
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,235000.0,171159.85117930328
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,110700.0,161778.34637063125
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,170500.0,144188.5756612841
+2023.0,Data Integration Engineer,Senior,Full-time,Remote,United States,75000.0,209949.08879728935
+2023.0,Data Scientist,Entry-level,Full-time,Remote,United States,156450.0,116970.20238095237
+2023.0,Data Infrastructure Engineer,Senior,Full-time,In-person,United States,151090.0,315923.460541289
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,150000.0,131171.7522591696
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,202800.0,153464.48865931274
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,196760.0,171731.7533965659
+2023.0,Data Science Consultant,Senior,Full-time,In-person,United States,128100.0,114829.79290697048
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,159000.0,199160.9588507386
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,370000.0,190392.2699275021
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,165000.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,100000.0,171731.7533965659
+2023.0,Research Scientist,Entry-level,Full-time,In-person,United States,250800.0,157463.5
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,142000.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,93300.0,171731.7533965659
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,49000.0,109398.41772412756
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,185000.0,153464.48865931274
+2023.0,BI Developer,Entry-level,Full-time,In-person,United States,57000.0,76211.35478468904
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,129150.0,117432.17809830085
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,143000.0,161778.34637063125
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,180000.0,190392.2699275021
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,110000.0,117432.17809830085
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,156600.0,151537.38690727303
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,81500.0,161778.34637063125
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,172800.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,114080.0,171731.7533965659
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,137200.0,151537.38690727303
+2023.0,BI Developer,Senior,Full-time,In-person,United States,106500.0,143765.26801443004
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,150000.0,117432.17809830085
+2023.0,Research Scientist,Mid-level,Full-time,In-person,United States,130000.0,188363.98928848928
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,223600.0,199160.9588507386
+2023.0,Research Engineer,Mid-level,Full-time,In-person,United States,220000.0,199296.9696969697
+2023.0,Data Architect,Senior,Full-time,In-person,United States,239000.0,154789.23864726786
+2023.0,Analytics Engineer,Senior,Full-time,Remote,United States,128000.0,159040.20012095748
+2023.0,Applied Scientist,Senior,Full-time,Remote,United States,218213.0,197900.21813165897
+2023.0,Data Architect,Senior,Full-time,In-person,United States,122900.0,154789.23864726786
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,100000.0,161778.34637063125
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,57700.0,130472.79525558426
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,140000.0,171731.7533965659
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,220000.0,188187.40874620195
+2023.0,Data Architect,Senior,Full-time,Remote,United States,135000.0,190614.20310907534
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,296400.0,199160.9588507386
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,180000.0,153464.48865931274
+2023.0,Head of Data,Senior,Full-time,Remote,United States,226500.0,237523.95073260058
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,156400.0,171731.7533965659
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,197400.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,160000.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,168000.0,171731.7533965659
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,113923.0,131171.7522591696
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,204600.0,199160.9588507386
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,100000.0,109398.41772412756
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,125000.0,130472.79525558426
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,51962.0,119061.57181258363
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,219000.0,171731.7533965659
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,166000.0,144188.5756612841
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,154000.0,151537.38690727303
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,135000.0,171731.7533965659
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,259000.0,161778.34637063125
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,109000.0,131171.7522591696
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,159600.0,199160.9588507386
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,166000.0,144188.5756612841
+2023.0,Data Architect,Senior,Full-time,Remote,United States,310000.0,190614.20310907534
+2023.0,Machine Learning Infrastructure Engineer,Senior,Full-time,In-person,United States,221000.0,191192.21707217811
+2023.0,Head of Data,Executive,Full-time,In-person,United States,247500.0,220560.6738095238
+2023.0,Applied Scientist,Senior,Full-time,Remote,United States,163000.0,197900.21813165897
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,103000.0,130472.79525558426
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,260000.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,208000.0,171731.7533965659
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,229000.0,109398.41772412756
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,180000.0,171159.85117930328
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,159350.0,199160.9588507386
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,118400.0,211784.7579418281
+2023.0,Data Architect,Senior,Full-time,In-person,United States,128000.0,154789.23864726786
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,260000.0,161778.34637063125
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,185900.0,171731.7533965659
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,146000.0,130472.79525558426
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,240000.0,197809.92276225233
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,170000.0,151537.38690727303
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,120000.0,117432.17809830085
+2023.0,Data Specialist,Mid-level,Full-time,Remote,United States,73000.0,95872.58899092244
+2023.0,Head of Machine Learning,Executive,Full-time,In-person,United States,188000.0,280664.2571428571
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,46500.0,109398.41772412756
+2023.0,Applied Scientist,Senior,Full-time,In-person,United States,222200.0,185985.26206687483
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,304750.0,161778.34637063125
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,73100.0,144188.5756612841
+2023.0,AI Engineer,Senior,Full-time,In-person,United States,93300.0,221073.47418749676
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,135000.0,117432.17809830085
+2023.0,Data Scientist,Entry-level,Full-time,In-person,United States,105000.0,102999.53876042258
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,204500.0,199160.9588507386
+2023.0,Business Intelligence Analyst,Senior,Full-time,In-person,United States,198200.0,134756.80123301977
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,55000.0,144188.5756612841
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,155000.0,190392.2699275021
+2023.0,Data Manager,Senior,Full-time,In-person,United States,146000.0,123626.86292084586
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,130000.0,190392.2699275021
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,142200.0,199160.9588507386
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,269100.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,225000.0,151537.38690727303
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,66000.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,104000.0,171159.85117930328
+2023.0,Data Architect,Senior,Full-time,Remote,United States,193000.0,190614.20310907534
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,226600.0,199160.9588507386
+2023.0,Data Developer,Mid-level,Full-time,Remote,United States,120681.0,80641.29132063485
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,248100.0,211784.7579418281
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,130000.0,151537.38690727303
+2023.0,Data Manager,Senior,Full-time,In-person,United States,105000.0,123626.86292084586
+2023.0,Data Analyst,Entry-level,Full-time,In-person,United States,71615.0,78425.14055119974
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,162000.0,161778.34637063125
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,166000.0,117432.17809830085
+2023.0,AI Engineer,Senior,Full-time,In-person,United States,83900.0,221073.47418749676
+2023.0,Analytics Engineer,Senior,Full-time,In-person,United States,130000.0,160547.3108553991
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,185900.0,171731.7533965659
+2023.0,Data Analyst,Mid-level,Full-time,Remote,United States,50000.0,89930.62933232497
+2023.0,Data Scientist,Entry-level,Full-time,In-person,United States,100000.0,102999.53876042258
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,95040.0,119061.57181258363
+2023.0,Data Engineer,Executive,Full-time,Remote,United States,219650.0,163521.1444805195
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,131000.0,161778.34637063125
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,135000.0,171159.85117930328
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,220000.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,212800.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,207900.0,171731.7533965659
+2023.0,Data Architect,Senior,Full-time,Remote,United States,144854.0,190614.20310907534
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,111000.0,171731.7533965659
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,105000.0,109398.41772412756
+2023.0,Applied Scientist,Senior,Full-time,Remote,United States,184000.0,197900.21813165897
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,213600.0,161778.34637063125
+2023.0,Head of Data,Executive,Full-time,In-person,United States,247500.0,220560.6738095238
+2023.0,Research Analyst,Entry-level,Full-time,Remote,United States,43500.0,80819.16666666658
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,245000.0,161778.34637063125
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,95000.0,119061.57181258363
+2023.0,Data Manager,Senior,Full-time,In-person,United States,68000.0,123626.86292084586
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,160000.0,117432.17809830085
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,132000.0,151537.38690727303
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,105000.0,119061.57181258363
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,190000.0,211784.7579418281
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,97000.0,130472.79525558426
+2023.0,Research Engineer,Entry-level,Full-time,In-person,United States,150000.0,137297.39523809525
+2023.0,Data Science Consultant,Senior,Full-time,In-person,United States,131250.0,114829.79290697048
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,190000.0,197809.92276225233
+2023.0,Research Analyst,Senior,Full-time,In-person,United States,135960.0,129140.62649923176
+2023.0,Computer Vision Engineer,Senior,Full-time,In-person,United States,175000.0,188096.79546935132
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,110000.0,119061.57181258363
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,308000.0,190392.2699275021
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,107400.0,171731.7533965659
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,135000.0,119061.57181258363
+2023.0,ML Engineer,Mid-level,Full-time,In-person,United States,85000.0,142865.49025974027
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,134236.0,171731.7533965659
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,110000.0,144188.5756612841
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,132500.0,119061.57181258363
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,122000.0,161778.34637063125
+2023.0,Research Analyst,Senior,Full-time,In-person,United States,107000.0,129140.62649923176
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,101570.0,151537.38690727303
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,184000.0,130472.79525558426
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,140000.0,211784.7579418281
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,160000.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,174250.0,171731.7533965659
+2023.0,Data Architect,Senior,Full-time,In-person,United States,193000.0,154789.23864726786
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,105000.0,119061.57181258363
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,250000.0,109398.41772412756
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,79600.0,153464.48865931274
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,190027.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,190000.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,258000.0,171731.7533965659
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,212000.0,199160.9588507386
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,150000.0,151537.38690727303
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,71400.0,171731.7533965659
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,210000.0,151537.38690727303
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,123800.0,197809.92276225233
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,257000.0,171159.85117930328
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,120350.0,119061.57181258363
+2023.0,Research Analyst,Entry-level,Full-time,Remote,United States,64000.0,80819.16666666658
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,160000.0,171731.7533965659
+2023.0,Data Product Manager,Senior,Full-time,In-person,United States,145000.0,129508.76623376622
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,150000.0,119061.57181258363
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,75000.0,117432.17809830085
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,130000.0,131171.7522591696
+2023.0,Applied Scientist,Senior,Full-time,Remote,United States,230000.0,197900.21813165897
+2023.0,Research Analyst,Senior,Full-time,In-person,United States,107000.0,129140.62649923176
+2023.0,Research Engineer,Mid-level,Full-time,In-person,United States,100000.0,199296.9696969697
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,185000.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,172500.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,127500.0,171159.85117930328
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,180240.0,199160.9588507386
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,167000.0,117432.17809830085
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,92000.0,144188.5756612841
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,110000.0,161778.34637063125
+2023.0,Data Analyst,Entry-level,Full-time,Remote,United States,163800.0,86141.09241764869
+2023.0,Data Analyst,Executive,Full-time,Remote,United States,70000.0,128628.21242857144
+2023.0,Decision Scientist,Mid-level,Full-time,In-person,United States,204500.0,167241.11944444443
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,247500.0,188187.40874620195
+2023.0,Data Analyst,Entry-level,Full-time,In-person,United States,80800.0,78425.14055119974
+2023.0,Data Scientist,Entry-level,Full-time,In-person,United States,119200.0,102999.53876042258
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,123000.0,130472.79525558426
+2023.0,Data Analyst,Mid-level,Full-time,Remote,United States,80000.0,89930.62933232497
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,93300.0,199160.9588507386
+2023.0,Research Analyst,Entry-level,Full-time,Remote,United States,81400.0,80819.16666666658
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,81800.0,161778.34637063125
+2023.0,ML Engineer,Mid-level,Full-time,In-person,United States,155000.0,142865.49025974027
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,100000.0,117432.17809830085
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,231250.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,179000.0,171731.7533965659
+2023.0,Data Infrastructure Engineer,Senior,Full-time,In-person,United States,200000.0,315923.460541289
+2023.0,Applied Scientist,Senior,Full-time,In-person,United States,136000.0,185985.26206687483
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,135000.0,161778.34637063125
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,309000.0,199160.9588507386
+2023.0,Data Architect,Senior,Full-time,Remote,United States,193000.0,190614.20310907534
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,140000.0,119061.57181258363
+2023.0,Data Engineer,Executive,Full-time,In-person,United States,135000.0,165038.84961362169
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,204500.0,188187.40874620195
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,250000.0,161778.34637063125
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,104300.0,153464.48865931274
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,190000.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,226700.0,161778.34637063125
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,133800.0,188187.40874620195
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,225000.0,151537.38690727303
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,187259.0,171731.7533965659
+2023.0,Applied Scientist,Senior,Full-time,Remote,United States,192000.0,197900.21813165897
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,324000.0,171731.7533965659
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,102000.0,119061.57181258363
+2023.0,Business Intelligence Developer,Mid-level,Full-time,Remote,United States,110000.0,128086.0799404762
+2023.0,Data Scientist,Entry-level,Full-time,In-person,United States,65000.0,102999.53876042258
+2023.0,ML Engineer,Entry-level,Full-time,In-person,United States,220000.0,102829.64285714287
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,125000.0,161778.34637063125
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,100000.0,117432.17809830085
+2023.0,Business Intelligence Analyst,Mid-level,Full-time,Remote,United States,150000.0,112131.8025952381
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,150000.0,197809.92276225233
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,51962.0,119061.57181258363
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,240000.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,146400.0,161778.34637063125
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,70000.0,117432.17809830085
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,123000.0,171731.7533965659
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,158000.0,117432.17809830085
+2023.0,Business Intelligence Engineer,Senior,Full-time,In-person,United States,79600.0,153464.48865931274
+2023.0,Data Engineer,Entry-level,Full-time,In-person,United States,220000.0,129318.706997114
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,199200.0,199160.9588507386
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,150000.0,144188.5756612841
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,234000.0,151537.38690727303
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,245000.0,171731.7533965659
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,84870.0,117432.17809830085
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,150000.0,117432.17809830085
+2023.0,Machine Learning Scientist,Senior,Full-time,Remote,United States,180514.0,175115.5605858586
+2023.0,Applied Scientist,Mid-level,Full-time,In-person,United States,136000.0,184221.54719638248
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,199000.0,171731.7533965659
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,200000.0,161778.34637063125
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,90000.0,131171.7522591696
+2023.0,Research Analyst,Senior,Full-time,In-person,United States,160000.0,129140.62649923176
+2023.0,Data Analyst,Entry-level,Full-time,In-person,United States,86500.0,78425.14055119974
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,114080.0,171731.7533965659
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,116000.0,144188.5756612841
+2023.0,Data Architect,Senior,Full-time,In-person,United States,134000.0,154789.23864726786
+2023.0,Data Manager,Mid-level,Full-time,In-person,United States,115500.0,90144.2262276337
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,200000.0,117432.17809830085
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,105700.0,161778.34637063125
+2023.0,Data Manager,Senior,Full-time,In-person,United States,145000.0,123626.86292084586
+2023.0,Research Scientist,Mid-level,Full-time,Remote,United States,162170.0,165672.41166666668
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,148000.0,130472.79525558426
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,175000.0,119061.57181258363
+2023.0,Data Engineer,Entry-level,Full-time,Remote,United States,61800.0,101043.93071717166
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,105400.0,130472.79525558426
+2023.0,Applied Scientist,Senior,Full-time,In-person,United States,136000.0,185985.26206687483
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,172500.0,171731.7533965659
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,299000.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,275000.0,199160.9588507386
+2023.0,Data Scientist,Mid-level,Full-time,Remote,United States,117000.0,145709.56110931115
+2023.0,Business Intelligence Analyst,Senior,Full-time,In-person,United States,110200.0,134756.80123301977
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,75000.0,119061.57181258363
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,220000.0,188187.40874620195
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,385000.0,190392.2699275021
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,205000.0,161778.34637063125
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,106500.0,130472.79525558426
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,121000.0,161778.34637063125
+2023.0,Data Scientist,Entry-level,Full-time,In-person,United States,135000.0,102999.53876042258
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,143000.0,161778.34637063125
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,225000.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,215625.0,171159.85117930328
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,305600.0,199160.9588507386
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,171000.0,171731.7533965659
+2023.0,Data Integration Specialist,Entry-level,Full-time,Remote,United States,46400.0,141835.4265873016
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,300000.0,151537.38690727303
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,112200.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,230000.0,161778.34637063125
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,72700.0,144188.5756612841
+2023.0,Analytics Engineer,Senior,Full-time,Remote,United States,145000.0,159040.20012095748
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,100000.0,188187.40874620195
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,152022.0,199160.9588507386
+2023.0,Data Infrastructure Engineer,Senior,Full-time,In-person,United States,300105.0,315923.460541289
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,128000.0,161778.34637063125
+2023.0,Data Developer,Mid-level,Full-time,Remote,United States,130000.0,80641.29132063485
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,227500.0,151537.38690727303
+2023.0,Machine Learning Modeler,Senior,Full-time,In-person,United States,142200.0,200342.73410682136
+2023.0,Data Product Manager,Mid-level,Full-time,In-person,United States,186000.0,132187.92109728506
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,58400.0,130472.79525558426
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,123000.0,171731.7533965659
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,164640.0,117432.17809830085
+2023.0,Data Engineer,Executive,Full-time,In-person,United States,185000.0,165038.84961362169
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,180000.0,171731.7533965659
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,228045.0,171159.85117930328
+2023.0,Research Analyst,Senior,Full-time,In-person,United States,70960.0,129140.62649923176
+2023.0,Research Scientist,Senior,Full-time,In-person,United States,190000.0,211784.7579418281
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,101570.0,151537.38690727303
+2023.0,Applied Scientist,Senior,Full-time,In-person,United States,136000.0,185985.26206687483
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,130000.0,161778.34637063125
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,210500.0,130472.79525558426
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,134500.0,190392.2699275021
+2023.0,Machine Learning Engineer,Entry-level,Full-time,Remote,United States,35999.999999999985,108120.16666666669
+2023.0,Data Engineer,Mid-level,Full-time,Remote,United States,150000.0,131171.7522591696
+2023.0,Machine Learning Engineer,Executive,Full-time,Remote,United States,160000.0,170066.96230936822
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,232200.0,171731.7533965659
+2023.0,Data Scientist,Mid-level,Full-time,Remote,United States,110000.0,145709.56110931115
+2023.0,Data Quality Analyst,Senior,Full-time,In-person,United States,172000.0,135382.34126984127
+2023.0,Business Intelligence Engineer,Mid-level,Full-time,In-person,United States,79600.0,135316.98174603176
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,100000.0,188187.40874620195
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,308000.0,171731.7533965659
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,205000.0,199160.9588507386
+2023.0,Data Scientist,Entry-level,Part-time,In-person,United States,58300.0,102999.53876042258
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,118575.0,151537.38690727303
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,171000.0,171731.7533965659
+2023.0,Business Intelligence Analyst,Mid-level,Full-time,Remote,United States,120000.0,112131.8025952381
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,280000.0,199160.9588507386
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,247300.0,161778.34637063125
+2023.0,Data Architect,Mid-level,Full-time,Remote,United States,140000.0,126394.81904696206
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,160000.0,199160.9588507386
+2023.0,Machine Learning Engineer,Mid-level,Full-time,In-person,United States,197400.0,188187.40874620195
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,160000.0,171731.7533965659
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,176000.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,170045.0,199160.9588507386
+2023.0,Data Analyst,Mid-level,Full-time,Remote,United States,110000.0,89930.62933232497
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,120000.0,171731.7533965659
+2023.0,Data Architect,Senior,Full-time,In-person,United States,191600.0,154789.23864726786
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,200000.0,197809.92276225233
+2023.0,Data Analyst,Mid-level,Full-time,Remote,United States,53000.0,89930.62933232497
+2023.0,Data Analyst,Senior,Full-time,Remote,United States,125000.0,119061.57181258363
+2023.0,Data Analyst,Mid-level,Full-time,In-person,United States,85000.0,109398.41772412756
+2023.0,Data Science Lead,Mid-level,Full-time,In-person,United States,129300.0,167803.12193797433
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,200000.0,171731.7533965659
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,170000.0,161778.34637063125
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,180000.0,161778.34637063125
+2023.0,Data Scientist,Senior,Full-time,Remote,United States,178000.0,171159.85117930328
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,126500.0,199160.9588507386
+2023.0,Data Modeler,Mid-level,Full-time,In-person,United States,166000.0,78656.85584947382
+2023.0,Research Engineer,Senior,Full-time,In-person,United States,155000.0,190392.2699275021
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,266400.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,142000.0,199160.9588507386
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,138510.0,144188.5756612841
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,103200.0,117432.17809830085
+2023.0,Data Engineer,Entry-level,Full-time,In-person,United States,220000.0,129318.706997114
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,140000.0,161778.34637063125
+2023.0,Data Architect,Senior,Full-time,In-person,United States,210000.0,154789.23864726786
+2023.0,Data Scientist,Entry-level,Full-time,In-person,United States,105000.0,102999.53876042258
+2023.0,Data Analyst,Mid-level,Full-time,Remote,United States,111151.0,89930.62933232497
+2023.0,Machine Learning Scientist,Senior,Full-time,In-person,United States,105500.0,208479.45108016982
+2023.0,Analytics Engineer,Mid-level,Full-time,In-person,United States,100000.0,100910.80952380953
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,84000.0,151537.38690727303
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,126500.0,199160.9588507386
+2023.0,Data Analyst,Senior,Full-time,In-person,United States,140130.0,117432.17809830085
+2023.0,Machine Learning Infrastructure Engineer,Senior,Full-time,Remote,United States,150000.0,233808.95302857144
+2023.0,Data Engineer,Senior,Full-time,Remote,United States,130000.0,151537.38690727303
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,123000.0,161778.34637063125
+2023.0,Machine Learning Engineer,Senior,Full-time,In-person,United States,127876.0,199160.9588507386
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,140000.0,197809.92276225233
+2023.0,Data Scientist,Senior,Full-time,In-person,United States,258700.0,171731.7533965659
+2023.0,Analytics Engineer,Senior,Full-time,Remote,United States,175000.0,159040.20012095748
+2023.0,Data Engineer,Mid-level,Full-time,In-person,United States,167100.0,130472.79525558426
+2023.0,Data Engineer,Executive,Full-time,In-person,United States,113000.0,165038.84961362169
+2023.0,Data Engineer,Senior,Full-time,In-person,United States,90000.0,161778.34637063125
+2023.0,Data Scientist,Mid-level,Full-time,In-person,United States,93400.0,144188.5756612841
+2023.0,Machine Learning Engineer,Senior,Full-time,Remote,United States,227700.0,197809.92276225233
