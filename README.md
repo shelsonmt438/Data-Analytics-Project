@@ -4,3 +4,7 @@ No scope changes occurred during the project, and all deliverables were successf
 
 Run the python file named "Final-Salary-estimator-Model-Improvement.ipynb"
 
+Run the Python files for webscraping => webscraping.ipynb
+
+Power BI => Data-Analytics-Final-Power-bi.pbix
+
